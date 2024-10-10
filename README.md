@@ -32,5 +32,5 @@ This is a functional clone of Myntra, an Indian fashion e-commerce website, deve
 Contributions are welcome! If you want to suggest improvements or report issues, feel free to submit an issue or a pull request.
 
 # 🚀 How to Run the Project
- Simply Click On the below link:- 
+ Simply Click On the below link:- https://er-sharad-singh.github.io/Myntra_Functional_Clone/
 
